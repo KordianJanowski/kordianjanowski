@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kordian Janowski</h1>
 <h3 align="center">Young and ambitious Frontend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kordianjanowski" alt="kordianjanowski" /></a> </p>
-
 - 🔭 I’m currently working on [NextJS GraphQL E-commerce App](https://github.com/KordianJanowski/nextjs-gql-ecommerce)
 
 - 🌱 I’m currently learning **Next.js**
