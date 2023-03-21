@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NextJS GraphQL E-commerce App](https://github.com/KordianJanowski/nextjs-gql-ecommerce)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **kordianj1227@gmail.com**
 
