@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kordian Janowski</h1>
-<h3 align="center">Young and out-of-the-box Frontend Developer</h3>
+<h3 align="center">Young and out-of-the-box Frontend/React Native Developer</h3>
 
-- 🔭 I’m currently working on [NextJS GraphQL E-commerce App](https://github.com/KordianJanowski/nextjs-gql-ecommerce)
-
-- 🌱 I’m currently learning **React Native**
+- 💼 I am currently working at DGCS S.A as a React Native Developer
 
 - 📫 How to reach me **kordianj1227@gmail.com**
 
