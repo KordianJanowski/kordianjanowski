@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kordian Janowski</h1>
 <h3 align="center">Young and out-of-the-box Frontend/React Native Developer</h3>
 
-- 💼 I’m currently working at **DGCS S.A as a React Native Developer**
+- 💼 I’m currently working at **DGCS S.A as a React Native Developer** (contract for specific work)
 
 - 📫 How to reach me **kordianj1227@gmail.com**
 
